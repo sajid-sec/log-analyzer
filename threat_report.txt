@@ -1,0 +1,2 @@
+--- Automated Threat Report ---
+[CRITICAL] IP: 10.0.0.5 breached threshold with 4 events.
